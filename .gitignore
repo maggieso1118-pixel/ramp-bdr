@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env*
+*.tsbuildinfo
+.DS_Store
+artifacts/
+.pnpm-store/
+data/
+datasets/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+corporations-active-*.csv
+AGENTS.md
+sources/
